@@ -1,5 +1,3 @@
-
-
 connection: "snowlooker"
 label: "Globant Looker Study"
 
