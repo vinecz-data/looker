@@ -5,7 +5,7 @@ view: users {
   sql_table_name: users ;;
 
 
-  ### Dimensions ###
+  ### Dimensions ####
 
   dimension: id {
     primary_key: yes
