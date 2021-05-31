@@ -1,7 +1,7 @@
 
 
 view: users {
-  # # You can specify the table name if it's different from the view name lalala:
+  # # You    can specify the table name if it's different from the view name lalala:
   sql_table_name: users ;;
 
 
