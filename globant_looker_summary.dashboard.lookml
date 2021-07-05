@@ -1,5 +1,5 @@
 - dashboard: globant_looker_summary
-  title: Globant Looker Summary
+  title: Globant Looker Summary Teste
   layout: newspaper
   preferred_viewer: dashboards-next
   crossfilter_enabled: true
