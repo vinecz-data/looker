@@ -2,7 +2,7 @@ connection: "snowlooker"
 label: "Globant Looker Study"
 
 include: "/view/*.view" # include all the views
-#include: "/dashboards/*.dashboard" # include all the dashboards
+include: "/**/*.dashboard" # include all the dashboards
 
 datagroup: globant_sample_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
