@@ -2,6 +2,7 @@
   title: Globant Looker Summary
   layout: newspaper
   preferred_viewer: dashboards-next
+  crossfilter_enabled: true
   elements:
   - title: Orders by Month
     name: Orders by Month
