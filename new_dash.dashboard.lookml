@@ -1,7 +1,7 @@
 - dashboard: NEW_DASH
   title: NEW_DASH
   layout: newspaper
-  preferred_viewer: dashboards
+  preferred_viewer: dashboards-next
   crossfilter_enabled: true
   elements:
   - title: Orders by Month
